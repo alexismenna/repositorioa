@@ -1,0 +1,1 @@
+SELECT (*) From estado WHERE usuario="Z"

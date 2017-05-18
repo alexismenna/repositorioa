@@ -1,0 +1,1 @@
+SELECT coUNT(*) FROM checklist WHERE tarea="T"

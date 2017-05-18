@@ -1,0 +1,1 @@
+SELECT c.detalle FROM comentarios as c WHERE join usuarios as U ON (c.usuario_id <c.usuario_id) WHERE c.nombre="U"
