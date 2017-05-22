@@ -1,1 +1,1 @@
-SELECT (*) FROM comentario WHERE usuario="Z"
+SELECT(*) FROM comentario WHERE usuario_id="Z"

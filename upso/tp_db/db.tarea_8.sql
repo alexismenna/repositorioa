@@ -1,1 +1,1 @@
-SELECT (*) From estado WHERE usuario="Z"
+SELECT(tarea_id) FROM tarea WHERE nombre="Z"

@@ -1,2 +1,2 @@
-SELECT (*) From comentario WHERE usuario="U"
-ORDER BY comentario desc
+SELECT(comentario_id) FROM comentario WHERE usuario="U"
+ORDER BY comentario DESC

@@ -1,1 +1,1 @@
-SELECT coUNT(*) FROM checklist WHERE tarea="T"
+SELECT coUNT(*) FROM pasos WHERE tarea_id="T"
