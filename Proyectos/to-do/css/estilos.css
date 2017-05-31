@@ -1,0 +1,109 @@
+.cabecera {
+
+border: 1px solid blue;
+height: 200px;
+width: 100%;
+}
+
+.logo {
+  border: 1px solid blue;
+  float: left;
+  width: 20%;
+}
+
+.menu {
+  border: 1px solid blue;
+  float: left;
+  width: 60%;
+}
+
+.menu1 {
+  border: 1px solid blue;
+
+}
+
+.menu2 {
+  border: 1px solid blue;
+ 
+}
+
+.menu3 {
+  border: 1px solid blue;
+  
+}
+
+.menu4 {
+  border: 1px solid blue;
+
+}
+
+.usuario {
+  border: 1px solid blue;
+  float: left;
+  width: 18%;
+}
+
+.info {
+  border: 1px solid red;
+  height: 600px;
+  width: 100%;
+}
+
+.titulo1 {
+  border: 1px solid blue;
+  float: left;
+  width: 25%;
+}
+
+.tarea1.1 {
+  border: 1px solid blue;
+
+}
+
+.tarea1.2 {
+  border: 1px solid blue;
+
+}
+
+.tarea1.3 {
+  border: 1px solid blue;
+
+}
+
+.titulo2 {
+  border: 1px solid blue;
+   float: left;
+  width: 25%;
+}
+
+.tarea2.1 {
+  border: 1px solid blue;
+}
+
+.tarea2.2 {
+  border: 1px solid blue;
+}
+
+.tarea2.3 {
+  border: 1px solid blue;
+}
+
+.titulo3 {
+border: 1px solid blue;
+ float: left;
+  width: 25%;
+}
+
+.tarea3.1 {
+  border: 1px solid blue;
+}
+.tarea3.2 {
+  border: 1px solid blue;
+}
+.tarea3.3 {
+  border: 1px solid blue;
+}
+.activador {
+ border: 1px solid blue;
+}
+
