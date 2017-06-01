@@ -19,22 +19,26 @@ width: 100%;
 
 .menu1 {
   border: 1px solid blue;
-
+  float: left;
+  width: 15%;
 }
 
 .menu2 {
   border: 1px solid blue;
- 
+  float: left;
+  width: 15%;
 }
 
 .menu3 {
   border: 1px solid blue;
-  
+  float: left;
+  width: 15%;
 }
 
 .menu4 {
   border: 1px solid blue;
-
+  float: left;
+  width: 15%;
 }
 
 .usuario {
@@ -45,7 +49,7 @@ width: 100%;
 
 .info {
   border: 1px solid red;
-  height: 600px;
+  height: 500px;
   width: 100%;
 }
 
@@ -53,57 +57,45 @@ width: 100%;
   border: 1px solid blue;
   float: left;
   width: 25%;
+  height: 500px;
 }
 
-.tarea1.1 {
+.tarea {
   border: 1px solid blue;
+  height: 75px;
+width: 100%;
 
-}
-
-.tarea1.2 {
-  border: 1px solid blue;
-
-}
-
-.tarea1.3 {
-  border: 1px solid blue;
-
+  
 }
 
 .titulo2 {
   border: 1px solid blue;
    float: left;
   width: 25%;
+  height: 500px;
 }
 
-.tarea2.1 {
-  border: 1px solid blue;
-}
-
-.tarea2.2 {
-  border: 1px solid blue;
-}
-
-.tarea2.3 {
-  border: 1px solid blue;
-}
 
 .titulo3 {
 border: 1px solid blue;
  float: left;
   width: 25%;
+  height: 500px;
+
 }
 
-.tarea3.1 {
-  border: 1px solid blue;
-}
-.tarea3.2 {
-  border: 1px solid blue;
-}
-.tarea3.3 {
-  border: 1px solid blue;
-}
+
 .activador {
  border: 1px solid blue;
+ height: 500px;
 }
 
+.completada {
+ border: 1px solid blue;
+ height: 75px;
+}
+
+.recientes {
+ border: 1px solid blue;
+ height: 75px;
+}
